@@ -1,0 +1,11 @@
+dosya,kosul,tahmin,cevap,dogru,token,sn
+fis.jpg,en,82.55,"82,55",True,269,0.08
+fis.jpg,tr,"82,55","82,55",True,269,0.08
+nota.jpg,en,5,8,False,268,0.03
+nota.jpg,tr,4,8,False,267,0.03
+hayvan.jpg,en,2,2,True,268,0.03
+hayvan.jpg,tr,2,2,True,267,0.03
+rontgen.jpg,en,5,5,True,289,0.03
+rontgen.jpg,tr,3,5,False,286,0.03
+nota.jpg,en,"D, E, F, G, A, B.","A, B, C, D, E, D, C, B.",False,279,0.15
+nota.jpg,tr,"D, E, F, G, A, B.","A, B, C, D, E, D, C, B.",False,280,0.15

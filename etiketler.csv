@@ -1,0 +1,7 @@
+dosya,gorev,soru_tr,soru_en,cevap
+tabela.jpg,ocr,,,Marmaris Datça Ula Muğla İzmir Köyceğiz Dalaman Antalya
+fis.jpg,vqa,Fişin toplam tutarı nedir?,What is the total amount on the receipt?,"82,55"
+nota.jpg,vqa,Bu portede kaç nota var?,How many notes are on this staff?,8
+hayvan.jpg,vqa,Fotoğrafta kaç hayvan var?,How many animals are in the photo?,2
+rontgen.jpg,vqa,"Görseldeki el röntgeninde kaç tane vida var? Sadece tek bir rakam yaz (Örn: 3).","How many screws are there in the hand X-ray shown in the image? Write only a single number (e.g., 3).",5
+nota.jpg,vqa,"Portedeki notaları soldan sağa sırasıyla yaz (Örn: la si do).","List all notes on the staff from left to right (e.g. la si do).","A, B, C, D, E, D, C, B."
