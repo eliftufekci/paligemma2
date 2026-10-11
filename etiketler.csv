@@ -1,7 +1,43 @@
 dosya,gorev,soru_tr,soru_en,cevap
-tabela.jpg,ocr,,,Marmaris Datça Ula Muğla İzmir Köyceğiz Dalaman Antalya
-fis.jpg,vqa,Fişin toplam tutarı nedir?,What is the total amount on the receipt?,"82,55"
-nota.jpg,vqa,Bu portede kaç nota var?,How many notes are on this staff?,8
-hayvan.jpg,vqa,Fotoğrafta kaç hayvan var?,How many animals are in the photo?,2
-rontgen.jpg,vqa,"Görseldeki el röntgeninde kaç tane vida var? Sadece tek bir rakam yaz (Örn: 3).","How many screws are there in the hand X-ray shown in the image? Write only a single number (e.g., 3).",5
-nota.jpg,vqa,"Portedeki notaları soldan sağa sırasıyla yaz (Örn: la si do).","List all notes on the staff from left to right (e.g. la si do).","A, B, C, D, E, D, C, B."
+tabela1.jpg,ocr,,,Marmaris Datça Ula Muğla İzmir Köyceğiz Dalaman Antalya
+tabela2.jpg,ocr,,,Eskişehir Ayrancı Dikmen Kızılay
+tabela3.jpg,ocr,,,Tayakadın Karaburun Çatalca İstanbul Havalimanı Göktürk Kemerburgaz Hasdal Arnavutköy
+tabela4.jpg,ocr,,,Polatlı Ankara Sivrihisar Eskişehir Mihalıççık
+tabela5.jpg,ocr,,,Büyük Çamlıca Cami Çevreyolu Üsküdar Kısıklı Rasathane Ümraniye
+tabela6.jpg,ocr,,,Agora Kemeraltı Liman (Harbour) Hastaneler Nazım Hikmet Kültür Merkezi Konak Metro İstasyonu Sanat Galerisi
+tabela7.jpg,ocr,,,Otogar Havalimanı Ordu Giresun Trabzon
+tabela8.jpg,ocr,,,Yeşilköy Florya Sahilyolu Havalimanı Çevreyolu
+tabela9.jpg,ocr,,,Kağıthane İstanbul Yeni Havalimanı Fatih Sultan Mehmet Köp. 2. Çevreyolu Yavuz Sultan Selim Köp.
+tabela10.jpg,ocr,,,Kızılay Söğütözü Eskişehir Konya
+fis1.jpg,vqa,Fişin toplam tutarı nedir?,What is the total amount on the receipt?,"82,55"
+fis2.jpg,vqa,Fişin toplam tutarı nedir?,What is the total amount on the receipt?,"2.685,00"
+fis3.jpg,vqa,Fişin toplam tutarı nedir?,What is the total amount on the receipt?,"304.31"
+fis4.jpg,vqa,Fişin toplam tutarı nedir?,What is the total amount on the receipt?,"26,15"
+fis5.jpg,vqa,Fişin toplam tutarı nedir?,What is the total amount on the receipt?,"216,49"
+fis6.jpg,vqa,Fişin toplam tutarı nedir?,What is the total amount on the receipt?,"178,90"
+fis7.jpg,vqa,Fişin toplam tutarı nedir?,What is the total amount on the receipt?,"34,75"
+fis8.jpg,vqa,Fişin toplam tutarı nedir?,What is the total amount on the receipt?,"248,85"
+fis9.jpg,vqa,Fişin toplam tutarı nedir?,What is the total amount on the receipt?,"450,00"
+fis10.jpg,vqa,Fişin toplam tutarı nedir?,What is the total amount on the receipt?,"128,95"
+nota1.jpg,vqa,Bu portede kaç nota var?,How many notes are on this staff?,8
+nota2.jpg,vqa,Bu portede kaç nota var?,How many notes are on this staff?,10
+nota3.jpg,vqa,Bu portede kaç nota var?,How many notes are on this staff?,7
+nota4.jpg,vqa,Bu portede kaç nota var?,How many notes are on this staff?,9
+nota5.jpg,vqa,Bu portede kaç nota var?,How many notes are on this staff?,7
+nota6.jpg,vqa,Bu portede kaç nota var?,How many notes are on this staff?,6
+nota7.jpg,vqa,Bu portede kaç nota var?,How many notes are on this staff?,12
+hayvan1.jpg,vqa,Fotoğrafta kaç hayvan var?,How many animals are in the photo?,2
+hayvan2.jpg,vqa,Fotoğrafta kaç hayvan var?,How many animals are in the photo?,2
+hayvan3.jpg,vqa,Fotoğrafta kaç hayvan var?,How many animals are in the photo?,2
+hayvan4.jpg,vqa,Fotoğrafta kaç hayvan var?,How many animals are in the photo?,2
+hayvan5.jpg,vqa,Fotoğrafta kaç hayvan var?,How many animals are in the photo?,5
+hayvan6.jpg,vqa,Fotoğrafta kaç hayvan var?,How many animals are in the photo?,2
+hayvan7.jpg,vqa,Fotoğrafta kaç hayvan var?,How many animals are in the photo?,3
+hayvan8.jpg,vqa,Fotoğrafta kaç hayvan var?,How many animals are in the photo?,3
+hayvan9.jpg,vqa,Fotoğrafta kaç hayvan var?,How many animals are in the photo?,1
+hayvan10.jpg,vqa,Fotoğrafta kaç hayvan var?,How many animals are in the photo?,4
+rontgen1.jpg,vqa,"Görseldeki el röntgeninde kaç tane vida var? Sadece tek bir rakam yaz (Örn: 3).","How many screws are there in the hand X-ray shown in the image? Write only a single number (e.g., 3).",5
+rontgen2.jpg,vqa,"Ağız röntgeninde kaç adet implant var? Sadece tek bir rakam yaz (Örn: 3).","How many implants are there in the dental X-ray?? Write only a single number (e.g., 3).",8
+rontgen3.jpg,vqa,"Görseldeki kol röntgeninde kaç tane vida var? Sadece tek bir rakam yaz (Örn: 3).","How many screws are there in the arm X-ray shown in the image? Write only a single number (e.g., 3).",6
+rontgen4.jpg,vqa,"Görseldeki kol röntgeninde kaç tane vida var? Sadece tek bir rakam yaz (Örn: 3).","How many screws are there in the arm X-ray shown in the image? Write only a single number (e.g., 3).",12
+rontgen5.jpg,vqa,"Ağız röntgeninde kaç adet diş dolgusu var? Sadece tek bir rakam yaz (Örn: 3).","How many dental fillings are there on the dental X-ray? Write only a single number (e.g., 3).",8
