@@ -1,9 +1,98 @@
-dosya,cozunurluk,tahmin,cevap,cer,tam_dogru,token,sn
-tabela.jpg,224,"Marmaris
+dosya,cozunurluk,tahmin,cevap,tam_dogru,eslesen_kelime,toplam_kelime,kelime_basarimi_yuzde,cer,token,sn
+tabela1.jpg,224,"Marmaris
 Ulu Muğla İzmir
 Kayseri
 Kayseri
-Antalya",Marmaris Datça Ula Muğla İzmir Köyceğiz Dalaman Antalya,0.309,False,259,0.24
-tabela.jpg,448,"Marmaris Datça
+Antalya",Marmaris Datça Ula Muğla İzmir Köyceğiz Dalaman Antalya,False,4,8,50.0,0.309,259,0.24
+tabela2.jpg,224,"Eskişehir
+Ayranci
+Dikmen
+Kızılay",Eskişehir Ayrancı Dikmen Kızılay,False,3,4,75.0,0.031,259,0.18
+tabela3.jpg,224,"Taysladın Karabük
+Şofala
+İstanbul Havalimanı
+Şofula
+Kemerburg
+Hasdal
+Arnavutköy",Tayakadın Karaburun Çatalca İstanbul Havalimanı Göktürk Kemerburgaz Hasdal Arnavutköy,False,4,9,44.44,0.224,259,0.37
+tabela4.jpg,224,"Polatlı Ankara
+Sıvrihisar
+Eskişehir
+Mihalıççık",Polatlı Ankara Sivrihisar Eskişehir Mihalıççık,False,4,5,80.0,0.022,259,0.24
+tabela5.jpg,224,"Büyük Camlıca Camii
+Çevreyolu Üsküdar
+Kısıklı
+Rasathane Ümraniye",Büyük Çamlıca Cami Çevreyolu Üsküdar Kısıklı Rasathane Ümraniye,False,6,8,75.0,0.032,259,0.31
+tabela6.jpg,224,"Agora
+Kemeralti
+Liman (Harbour)
+Hastaneler
+Nazım Hikmet Kültür Merkezi
+Konak
+Metro Istasyonu Sanat Galerisi",Agora Kemeraltı Liman (Harbour) Hastaneler Nazım Hikmet Kültür Merkezi Konak Metro İstasyonu Sanat Galerisi,False,12,14,85.71,0.019,259,0.41
+tabela7.jpg,224,"Otogar
+Havalımani
+Ordu
+Giresun
+Trabzon",Otogar Havalimanı Ordu Giresun Trabzon,False,4,5,80.0,0.053,259,0.2
+tabela8.jpg,224,"Yeşilköy F.Lorya
+Sahil yolu
+→Hava limani
+Çevreyolu
+50",Yeşilköy Florya Sahilyolu Havalimanı Çevreyolu,False,2,5,40.0,0.152,259,0.29
+tabela9.jpg,224,"Kağıthane
+İstanbul Yeni Havalimanı Fatih Sultan Mehmet Köp. 2. Çevreyolu
+Yavuz Sultan Selim Köp.",Kağıthane İstanbul Yeni Havalimanı Fatih Sultan Mehmet Köp. 2. Çevreyolu Yavuz Sultan Selim Köp.,True,14,14,100.0,0.0,259,0.38
+tabela10.jpg,224,"Kızılay
+Soğutçu
+↑ Eskisehir
+Konya",Kızılay Söğütözü Eskişehir Konya,False,2,4,50.0,0.188,259,0.2
+tabela1.jpg,448,"Marmaris Datça
 Ula Muğla İzmir
-Köyceğiz Dalaman Antalya",Marmaris Datça Ula Muğla İzmir Köyceğiz Dalaman Antalya,0.0,True,1027,0.26
+Köyceğiz Dalaman Antalya",Marmaris Datça Ula Muğla İzmir Köyceğiz Dalaman Antalya,True,8,8,100.0,0.0,1027,0.29
+tabela2.jpg,448,"Eskişehir
+Ayrancı
+Dikmen
+Kizilay",Eskişehir Ayrancı Dikmen Kızılay,False,3,4,75.0,0.062,1027,0.18
+tabela3.jpg,448,"Tayakadın Karaburun Çatlica
+İstanbul
+Havallimani
+Gökçük
+Kemerburgaz
+Hasdal
+Arnavutköy",Tayakadın Karaburun Çatalca İstanbul Havalimanı Göktürk Kemerburgaz Hasdal Arnavutköy,False,6,9,66.67,0.071,1027,0.39
+tabela4.jpg,448,"Polatlı Ankara
+Sivrihisar
+Eskişehir
+Mihalıççık",Polatlı Ankara Sivrihisar Eskişehir Mihalıççık,True,5,5,100.0,0.0,1027,0.24
+tabela5.jpg,448,"Büyük Çamlıca
+Cami
+Çevreyolu Üsküdar
+Kısıklı
+Rasathane Ümraniye",Büyük Çamlıca Cami Çevreyolu Üsküdar Kısıklı Rasathane Ümraniye,True,8,8,100.0,0.0,1027,0.35
+tabela6.jpg,448,"↑ Agora
+↑ Kemeraltı
+Liman (Harbour)
+H Hastaneler
+Nazım Hikmet Kültür Merkezi
+Konak
+Metro İstasyonu
+Sanat Galerisi",Agora Kemeraltı Liman (Harbour) Hastaneler Nazım Hikmet Kültür Merkezi Konak Metro İstasyonu Sanat Galerisi,False,14,14,100.0,0.019,1027,0.48
+tabela7.jpg,448,"Otogar
+Havalimanı
+Ordu
+Giresun
+Trabzon",Otogar Havalimanı Ordu Giresun Trabzon,True,5,5,100.0,0.0,1027,0.23
+tabela8.jpg,448,"Yeşilköy Florya
+Sahilyolu
+Havaliman
+Çevreyolu",Yeşilköy Florya Sahilyolu Havalimanı Çevreyolu,False,4,5,80.0,0.022,1027,0.24
+tabela9.jpg,448,"Kağıthane
+İstanbul Yeni Havalimanı
+Fatih Sultan Mehmet Köp.
+2. Çevreyolu
+Yavuz Sultan Selim Köp.",Kağıthane İstanbul Yeni Havalimanı Fatih Sultan Mehmet Köp. 2. Çevreyolu Yavuz Sultan Selim Köp.,True,14,14,100.0,0.0,1027,0.41
+tabela10.jpg,448,"Kizilay
+Sögütözü
+Eskişehir
+Konya",Kızılay Söğütözü Eskişehir Konya,False,2,4,50.0,0.094,1027,0.2

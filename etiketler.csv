@@ -36,8 +36,8 @@ hayvan7.jpg,vqa,Fotoğrafta kaç hayvan var?,How many animals are in the photo?,
 hayvan8.jpg,vqa,Fotoğrafta kaç hayvan var?,How many animals are in the photo?,3
 hayvan9.jpg,vqa,Fotoğrafta kaç hayvan var?,How many animals are in the photo?,1
 hayvan10.jpg,vqa,Fotoğrafta kaç hayvan var?,How many animals are in the photo?,4
-rontgen1.jpg,vqa,"Görseldeki el röntgeninde kaç tane vida var? Sadece tek bir rakam yaz (Örn: 3).","How many screws are there in the hand X-ray shown in the image? Write only a single number (e.g., 3).",5
-rontgen2.jpg,vqa,"Ağız röntgeninde kaç adet implant var? Sadece tek bir rakam yaz (Örn: 3).","How many implants are there in the dental X-ray?? Write only a single number (e.g., 3).",8
-rontgen3.jpg,vqa,"Görseldeki kol röntgeninde kaç tane vida var? Sadece tek bir rakam yaz (Örn: 3).","How many screws are there in the arm X-ray shown in the image? Write only a single number (e.g., 3).",6
-rontgen4.jpg,vqa,"Görseldeki kol röntgeninde kaç tane vida var? Sadece tek bir rakam yaz (Örn: 3).","How many screws are there in the arm X-ray shown in the image? Write only a single number (e.g., 3).",12
-rontgen5.jpg,vqa,"Ağız röntgeninde kaç adet diş dolgusu var? Sadece tek bir rakam yaz (Örn: 3).","How many dental fillings are there on the dental X-ray? Write only a single number (e.g., 3).",8
+rontgen1.jpg,vqa,"Görseldeki el röntgeninde kaç tane vida var?","How many screws are there in the hand X-ray shown in the image?",5
+rontgen2.jpg,vqa,"Ağız röntgeninde kaç adet implant var?","How many implants are there in the dental X-ray?",8
+rontgen3.jpg,vqa,"Görseldeki kol röntgeninde kaç tane vida var?","How many screws are there in the arm X-ray shown in the image?",6
+rontgen4.jpg,vqa,"Görseldeki kol röntgeninde kaç tane vida var?","How many screws are there in the arm X-ray shown in the image?",12
+rontgen5.jpg,vqa,"Ağız röntgeninde kaç adet diş dolgusu var?","How many dental fillings are there on the dental X-ray?",8
